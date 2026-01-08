@@ -1,0 +1,5 @@
+{
+  "name": "collengo 7",
+  "description": "A full-featured fast-food ordering platform with a premium Royal Gold & Red theme. Features a simulated full-stack environment (local storage) for User/Admin authentication, Product Management, Order Tracking, and a Shopping Cart. Includes an AI-powered 'Royal Chef' assistant for menu recommendations.",
+  "requestFramePermissions": []
+}
